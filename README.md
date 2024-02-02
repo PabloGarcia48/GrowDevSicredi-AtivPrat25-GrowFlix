@@ -1,8 +1,8 @@
 # GrowDevSicredi-AtivPrat25-GrowFlix
 ## Este repositório destina-se a entrega de uma atividade prática.
-[Acesse a Resolução](https://pablogarcia48.github.io/GrowDevSicredi-AtivPrat25-GrowFlix/)
+[Acesse a Resolução](https://pablogarcia48.github.io/GrowDevSicredi-AtivPrat25-GrowFlix/src)
 
 -------------------------------------------------------
 
 ## This repository is intended to deliver a practical activity.
-[Access the resolution](https://pablogarcia48.github.io/GrowDevSicredi-AtivPrat25-GrowFlix/)
+[Access the resolution](https://pablogarcia48.github.io/GrowDevSicredi-AtivPrat25-GrowFlix/src)
