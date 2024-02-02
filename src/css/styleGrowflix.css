@@ -1,0 +1,23 @@
+body header {
+    background-image: url(../assets/images/growcast-01.png);
+    background-size: cover;
+    height: 900px;
+}
+
+.btnHidden { 
+    visibility: hidden;
+}
+
+.movieCard:hover .btnHidden{
+    visibility: visible;
+    cursor: pointer;
+}
+
+.corLink {
+    color: rgb(163, 163, 163);
+}
+
+.nav-link:hover {
+    color: white;
+    font-weight: bold;
+}
